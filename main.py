@@ -8,9 +8,9 @@ email_password = password
 
 email_receiver = 'receivermail@gmail.com'
 
-subject = "My MAIN MESSAGE"
+subject = "Email subject goes here..."
 body = """
-Do not forget to hang the clothes after the rest have dried up
+The body of the email goes here...
 """
 
 em = EmailMessage()
